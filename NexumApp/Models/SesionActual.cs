@@ -1,19 +1,25 @@
 ﻿using System;
 
-namespace Nexum.Models
+namespace NexumApp.Models
 {
-    public static class SesionActual
+    public class SesionActual
     {
-        public static int UsuarioId { get; set; }
-        public static string Email { get; set; }
-        public static string NombreCompleto { get; set; }
-        public static bool EsAdmin { get; set; }
-        public static DateTime InicioSesion { get; set; }
+        private static SesionActual _instancia;
+        public static SesionActual Instancia => _instancia ?? (_instancia = new SesionActual());
 
-        public static bool EstaLogeado => UsuarioId > 0;
+        public int UsuarioId { get; set; }
+        public string Email { get; set; }
+        public string NombreCompleto { get; set; }
+        public bool EsAdmin { get; set; }
+        public DateTime InicioSesion { get; set; }
 
-        public static void IniciarSesion(Usuario usuario)
+        private SesionActual() { }
+
+        public void IniciarSesion(Usuario usuario)
         {
+            if (usuario == null)
+                throw new ArgumentNullException(nameof(usuario));
+
             UsuarioId = usuario.Id;
             Email = usuario.Email;
             NombreCompleto = usuario.NombreCompleto;
@@ -21,12 +27,14 @@ namespace Nexum.Models
             InicioSesion = DateTime.Now;
         }
 
-        public static void CerrarSesion()
+        public void CerrarSesion()
         {
             UsuarioId = 0;
             Email = null;
             NombreCompleto = null;
             EsAdmin = false;
         }
+
+        public bool EstaLogeado => UsuarioId > 0;
     }
 }

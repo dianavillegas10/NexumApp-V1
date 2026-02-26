@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace NexumApp.Forms.Auth
 {
-    internal class FrmRegistro
+    partial class FrmRegistro
     {
     }
 }

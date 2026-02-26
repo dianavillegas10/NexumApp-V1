@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace NexumApp.Forms.Principal
 {
-    internal class FrmDashboard
+    partial class FrmDashboard
     {
     }
 }

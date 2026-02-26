@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace NexumApp.Forms.Admin
 {
-    internal class FrmGestionUsuarios
+    partial class FrmGestionUsuarios
     {
     }
 }

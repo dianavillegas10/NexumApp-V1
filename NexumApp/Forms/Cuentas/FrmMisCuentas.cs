@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace NexumApp.Forms.Cuentas
 {
-    internal class FrmMisCuentas
+    partial class FrmMisCuentas
+
     {
     }
 }

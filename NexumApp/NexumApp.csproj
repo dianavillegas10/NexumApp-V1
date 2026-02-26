@@ -109,11 +109,15 @@
       <DependentUpon>FrmGestionUsuarios.cs</DependentUpon>
     </Compile>
     <Compile Include="Forms\Admin\FrmReportesAdmin.cs" />
-    <Compile Include="Forms\Auth\FrmLogin.cs" />
+    <Compile Include="Forms\Auth\FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Forms\Auth\FrmLogin.Designer.cs">
       <DependentUpon>FrmLogin.cs</DependentUpon>
     </Compile>
-    <Compile Include="Forms\Auth\FrmRegistro.cs" />
+    <Compile Include="Forms\Auth\FrmRegistro.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Forms\Auth\FrmRegistro.Designer.cs">
       <DependentUpon>FrmRegistro.cs</DependentUpon>
     </Compile>
@@ -128,6 +132,9 @@
     <Compile Include="Forms\Cuentas\FrmMisCuentas.cs" />
     <Compile Include="Forms\Cuentas\FrmMisCuentas.Designer.cs">
       <DependentUpon>FrmMisCuentas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmHome\FrmHome1.cs">
+      <SubType>Form</SubType>
     </Compile>
     <Compile Include="Forms\Movimientos\FrmHistorialMovimientos.cs" />
     <Compile Include="Forms\Movimientos\FrmHistorialMovimientos.Designer.cs">

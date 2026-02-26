@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace NexumApp.Forms.Cuentas
 {
-    internal class FrmAbrirCuenta
+    partial class FrmAbrirCuenta
     {
     }
 }

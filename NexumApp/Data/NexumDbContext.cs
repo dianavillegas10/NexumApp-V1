@@ -1,5 +1,5 @@
 ﻿using MySql.Data.EntityFramework;
-using Nexum.Models;
+using NexumApp.Models;
 using System;
 using System.Data.Entity;
 
@@ -8,7 +8,7 @@ namespace NexumApp.Data
     [DbConfigurationType(typeof(MySqlEFConfiguration))]
     public class NexumDbContext : DbContext
     {
-        public NexumDbContext() : base("name=NexumDB")
+        public NexumDbContext() : base("name=nexumdb")
         {
         }
 
@@ -19,7 +19,7 @@ namespace NexumApp.Data
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
-            // Configurar relaciones igual que antes
+            // Configurar relaciones
             modelBuilder.Entity<CuentaBancaria>()
                 .HasRequired(c => c.Usuario)
                 .WithMany(u => u.Cuentas)

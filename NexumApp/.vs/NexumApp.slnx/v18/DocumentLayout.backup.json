@@ -3,31 +3,151 @@
   "WorkspaceRootPath": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|c:\\users\\diana\\source\\repos\\nexumapp-v1\\nexumapp\\data\\nexumdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|solutionrelative:data\\nexumdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\forms\\auth\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|solutionrelative:forms\\auth\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|c:\\users\\diana\\source\\repos\\nexumapp-v1\\nexumapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|c:\\users\\diana\\source\\repos\\nexumapp-v1\\nexumapp\\models\\cuentabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|solutionrelative:models\\cuentabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\data\\nexumdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|solutionrelative:data\\nexumdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|c:\\users\\diana\\source\\repos\\nexumapp-v1\\nexumapp\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|c:\\users\\diana\\source\\repos\\nexumapp-v1\\nexumapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\forms\\principal\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|solutionrelative:forms\\principal\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|c:\\users\\diana\\source\\repos\\nexumapp-v1\\nexumapp\\forms\\transferencias\\frmtransferencias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|solutionrelative:forms\\transferencias\\frmtransferencias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\forms\\transferencias\\frmtransferencias.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|solutionrelative:forms\\transferencias\\frmtransferencias.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|c:\\users\\diana\\source\\repos\\nexumapp-v1\\nexumapp\\forms\\transferencias\\frmnuevatransferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|solutionrelative:forms\\transferencias\\frmnuevatransferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\forms\\movimientos\\frmhistorialmovimientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|solutionrelative:forms\\movimientos\\frmhistorialmovimientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\forms\\cuentas\\frmdetallecuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|solutionrelative:forms\\cuentas\\frmdetallecuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\forms\\principal\\frmdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|solutionrelative:forms\\principal\\frmdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\forms\\cuentas\\frmabrircuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|solutionrelative:forms\\cuentas\\frmabrircuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\forms\\principal\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|solutionrelative:forms\\principal\\frmdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\forms\\movimientos\\frmhistorialmovimientos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|solutionrelative:forms\\movimientos\\frmhistorialmovimientos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\forms\\cuentas\\frmdetallecuenta.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|solutionrelative:forms\\cuentas\\frmdetallecuenta.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\forms\\cuentas\\frmabrircuenta.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|solutionrelative:forms\\cuentas\\frmabrircuenta.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\forms\\auth\\frmregistro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|solutionrelative:forms\\auth\\frmregistro.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\forms\\admin\\frmgestionusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|solutionrelative:forms\\admin\\frmgestionusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\forms\\admin\\frmgestionusuarios.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|solutionrelative:forms\\admin\\frmgestionusuarios.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\forms\\movimientos\\frmingresarefectivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|solutionrelative:forms\\movimientos\\frmingresarefectivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\forms\\cuentas\\frmmiscuentas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|solutionrelative:forms\\cuentas\\frmmiscuentas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|c:\\users\\diana\\source\\repos\\nexumapp-v1\\nexumapp\\models\\movimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|solutionrelative:models\\movimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\forms\\movimientos\\frmretirarefectivo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|solutionrelative:forms\\movimientos\\frmretirarefectivo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|c:\\users\\diana\\source\\repos\\nexumapp-v1\\nexumapp\\models\\transferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\forms\\cuentas\\frmmiscuentas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|solutionrelative:forms\\cuentas\\frmmiscuentas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\forms\\movimientos\\frmingresarefectivo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|solutionrelative:forms\\movimientos\\frmingresarefectivo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\forms\\movimientos\\frmretirarefectivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|solutionrelative:forms\\movimientos\\frmretirarefectivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\forms\\transferencias\\frmnuevatransferencia.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|solutionrelative:forms\\transferencias\\frmnuevatransferencia.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\forms\\auth\\frmregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|solutionrelative:forms\\auth\\frmregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\models\\transferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|solutionrelative:models\\transferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|c:\\users\\diana\\source\\repos\\nexumapp-v1\\nexumapp\\models\\sesionactual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\models\\movimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|solutionrelative:models\\movimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\models\\cuentabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|solutionrelative:models\\cuentabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\forms\\frmhome\\frmhome1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|solutionrelative:forms\\frmhome\\frmhome1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\forms\\admin\\frmreportesadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|solutionrelative:forms\\admin\\frmreportesadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\forms\\frmhome\\frmhome1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|solutionrelative:forms\\frmhome\\frmhome1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\forms\\auth\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|solutionrelative:forms\\auth\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\models\\sesionactual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77A3089B-956F-4DDA-9D52-3D96D1FD83B3}|NexumApp.csproj|solutionrelative:models\\sesionactual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,7 +158,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,102 +166,460 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
+              "Title": "FrmAbrirCuenta.cs",
+              "DocumentMoniker": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Forms\\Cuentas\\FrmAbrirCuenta.cs",
+              "RelativeDocumentMoniker": "Forms\\Cuentas\\FrmAbrirCuenta.cs",
+              "ToolTip": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Forms\\Cuentas\\FrmAbrirCuenta.cs",
+              "RelativeToolTip": "Forms\\Cuentas\\FrmAbrirCuenta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T19:33:03.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Forms\\Principal\\FrmDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\Principal\\FrmDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Forms\\Principal\\FrmDashboard.Designer.cs",
+              "RelativeToolTip": "Forms\\Principal\\FrmDashboard.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T19:28:14.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmDetalleCuenta.cs",
+              "DocumentMoniker": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Forms\\Cuentas\\FrmDetalleCuenta.cs",
+              "RelativeDocumentMoniker": "Forms\\Cuentas\\FrmDetalleCuenta.cs",
+              "ToolTip": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Forms\\Cuentas\\FrmDetalleCuenta.cs",
+              "RelativeToolTip": "Forms\\Cuentas\\FrmDetalleCuenta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T19:28:42.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Forms\\Principal\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "Forms\\Principal\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Forms\\Principal\\FrmPrincipal.cs",
+              "RelativeToolTip": "Forms\\Principal\\FrmPrincipal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T19:34:01.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmTransferencias.cs",
+              "DocumentMoniker": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Forms\\Transferencias\\FrmTransferencias.cs",
+              "RelativeDocumentMoniker": "Forms\\Transferencias\\FrmTransferencias.cs",
+              "ToolTip": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Forms\\Transferencias\\FrmTransferencias.cs",
+              "RelativeToolTip": "Forms\\Transferencias\\FrmTransferencias.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T19:46:01.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Forms\\Auth\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "Forms\\Auth\\FrmLogin.cs",
+              "ToolTip": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Forms\\Auth\\FrmLogin.cs*",
+              "RelativeToolTip": "Forms\\Auth\\FrmLogin.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T19:07:44.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\App.config",
               "RelativeDocumentMoniker": "App.config",
               "ToolTip": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\App.config",
               "RelativeToolTip": "App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2026-02-25T20:55:56.885Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "NexumDbContext.cs",
               "DocumentMoniker": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Data\\NexumDbContext.cs",
               "RelativeDocumentMoniker": "Data\\NexumDbContext.cs",
               "ToolTip": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Data\\NexumDbContext.cs",
               "RelativeToolTip": "Data\\NexumDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-25T20:49:47.395Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "SesionActual.cs",
-              "DocumentMoniker": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Models\\SesionActual.cs",
-              "RelativeDocumentMoniker": "Models\\SesionActual.cs",
-              "ToolTip": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Models\\SesionActual.cs",
-              "RelativeToolTip": "Models\\SesionActual.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthService.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwF8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T20:49:30.598Z",
+              "WhenOpened": "2026-02-26T19:18:00.805Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Transferencia.cs",
-              "DocumentMoniker": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Models\\Transferencia.cs",
-              "RelativeDocumentMoniker": "Models\\Transferencia.cs",
-              "ToolTip": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Models\\Transferencia.cs",
-              "RelativeToolTip": "Models\\Transferencia.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "FrmDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Forms\\Principal\\FrmDashboard.cs",
+              "RelativeDocumentMoniker": "Forms\\Principal\\FrmDashboard.cs",
+              "ToolTip": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Forms\\Principal\\FrmDashboard.cs",
+              "RelativeToolTip": "Forms\\Principal\\FrmDashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T20:49:20.485Z",
+              "WhenOpened": "2026-02-26T19:33:54.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmNuevaTransferencia.cs",
+              "DocumentMoniker": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Forms\\Transferencias\\FrmNuevaTransferencia.cs",
+              "RelativeDocumentMoniker": "Forms\\Transferencias\\FrmNuevaTransferencia.cs",
+              "ToolTip": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Forms\\Transferencias\\FrmNuevaTransferencia.cs",
+              "RelativeToolTip": "Forms\\Transferencias\\FrmNuevaTransferencia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T19:40:51.001Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Movimiento.cs",
-              "DocumentMoniker": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Models\\Movimiento.cs",
-              "RelativeDocumentMoniker": "Models\\Movimiento.cs",
-              "ToolTip": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Models\\Movimiento.cs",
-              "RelativeToolTip": "Models\\Movimiento.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T20:49:11.458Z",
+              "WhenOpened": "2026-02-26T19:46:11.846Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CuentaBancaria.cs",
-              "DocumentMoniker": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Models\\CuentaBancaria.cs",
-              "RelativeDocumentMoniker": "Models\\CuentaBancaria.cs",
-              "ToolTip": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Models\\CuentaBancaria.cs",
-              "RelativeToolTip": "Models\\CuentaBancaria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "FrmHistorialMovimientos.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Forms\\Movimientos\\FrmHistorialMovimientos.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\Movimientos\\FrmHistorialMovimientos.Designer.cs",
+              "ToolTip": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Forms\\Movimientos\\FrmHistorialMovimientos.Designer.cs",
+              "RelativeToolTip": "Forms\\Movimientos\\FrmHistorialMovimientos.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T20:49:01.103Z",
+              "WhenOpened": "2026-02-26T19:28:29.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmTransferencias.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Forms\\Transferencias\\FrmTransferencias.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\Transferencias\\FrmTransferencias.Designer.cs",
+              "ToolTip": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Forms\\Transferencias\\FrmTransferencias.Designer.cs",
+              "RelativeToolTip": "Forms\\Transferencias\\FrmTransferencias.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T19:28:06.016Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 15,
+              "Title": "FrmDetalleCuenta.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Forms\\Cuentas\\FrmDetalleCuenta.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\Cuentas\\FrmDetalleCuenta.Designer.cs",
+              "ToolTip": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Forms\\Cuentas\\FrmDetalleCuenta.Designer.cs",
+              "RelativeToolTip": "Forms\\Cuentas\\FrmDetalleCuenta.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T19:28:33.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmHistorialMovimientos.cs",
+              "DocumentMoniker": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Forms\\Movimientos\\FrmHistorialMovimientos.cs",
+              "RelativeDocumentMoniker": "Forms\\Movimientos\\FrmHistorialMovimientos.cs",
+              "ToolTip": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Forms\\Movimientos\\FrmHistorialMovimientos.cs",
+              "RelativeToolTip": "Forms\\Movimientos\\FrmHistorialMovimientos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T19:33:47.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmAbrirCuenta.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Forms\\Cuentas\\FrmAbrirCuenta.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\Cuentas\\FrmAbrirCuenta.Designer.cs",
+              "ToolTip": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Forms\\Cuentas\\FrmAbrirCuenta.Designer.cs",
+              "RelativeToolTip": "Forms\\Cuentas\\FrmAbrirCuenta.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T19:38:03.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmRegistro.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Forms\\Auth\\FrmRegistro.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\Auth\\FrmRegistro.Designer.cs",
+              "ToolTip": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Forms\\Auth\\FrmRegistro.Designer.cs",
+              "RelativeToolTip": "Forms\\Auth\\FrmRegistro.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T19:39:52.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FrmGestionUsuarios.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Forms\\Admin\\FrmGestionUsuarios.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\Admin\\FrmGestionUsuarios.Designer.cs",
+              "ToolTip": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Forms\\Admin\\FrmGestionUsuarios.Designer.cs",
+              "RelativeToolTip": "Forms\\Admin\\FrmGestionUsuarios.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T19:39:30.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FrmMisCuentas.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Forms\\Cuentas\\FrmMisCuentas.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\Cuentas\\FrmMisCuentas.Designer.cs",
+              "ToolTip": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Forms\\Cuentas\\FrmMisCuentas.Designer.cs",
+              "RelativeToolTip": "Forms\\Cuentas\\FrmMisCuentas.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T19:28:31.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "Models\\Usuario.cs",
               "ToolTip": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Models\\Usuario.cs",
               "RelativeToolTip": "Models\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T20:48:47.958Z",
+              "WhenOpened": "2026-02-25T20:48:47.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FrmRetirarEfectivo.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Forms\\Movimientos\\FrmRetirarEfectivo.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\Movimientos\\FrmRetirarEfectivo.Designer.cs",
+              "ToolTip": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Forms\\Movimientos\\FrmRetirarEfectivo.Designer.cs",
+              "RelativeToolTip": "Forms\\Movimientos\\FrmRetirarEfectivo.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T19:28:16.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FrmIngresarEfectivo.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Forms\\Movimientos\\FrmIngresarEfectivo.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\Movimientos\\FrmIngresarEfectivo.Designer.cs",
+              "ToolTip": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Forms\\Movimientos\\FrmIngresarEfectivo.Designer.cs",
+              "RelativeToolTip": "Forms\\Movimientos\\FrmIngresarEfectivo.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T19:28:18.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmGestionUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Forms\\Admin\\FrmGestionUsuarios.cs",
+              "RelativeDocumentMoniker": "Forms\\Admin\\FrmGestionUsuarios.cs",
+              "ToolTip": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Forms\\Admin\\FrmGestionUsuarios.cs",
+              "RelativeToolTip": "Forms\\Admin\\FrmGestionUsuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T19:32:41.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FrmRetirarEfectivo.cs",
+              "DocumentMoniker": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Forms\\Movimientos\\FrmRetirarEfectivo.cs",
+              "RelativeDocumentMoniker": "Forms\\Movimientos\\FrmRetirarEfectivo.cs",
+              "ToolTip": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Forms\\Movimientos\\FrmRetirarEfectivo.cs",
+              "RelativeToolTip": "Forms\\Movimientos\\FrmRetirarEfectivo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T19:33:53.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FrmIngresarEfectivo.cs",
+              "DocumentMoniker": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Forms\\Movimientos\\FrmIngresarEfectivo.cs",
+              "RelativeDocumentMoniker": "Forms\\Movimientos\\FrmIngresarEfectivo.cs",
+              "ToolTip": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Forms\\Movimientos\\FrmIngresarEfectivo.cs",
+              "RelativeToolTip": "Forms\\Movimientos\\FrmIngresarEfectivo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T19:33:51.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FrmNuevaTransferencia.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Forms\\Transferencias\\FrmNuevaTransferencia.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\Transferencias\\FrmNuevaTransferencia.Designer.cs",
+              "ToolTip": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Forms\\Transferencias\\FrmNuevaTransferencia.Designer.cs",
+              "RelativeToolTip": "Forms\\Transferencias\\FrmNuevaTransferencia.Designer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T19:28:10.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FrmRegistro.cs",
+              "DocumentMoniker": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Forms\\Auth\\FrmRegistro.cs",
+              "RelativeDocumentMoniker": "Forms\\Auth\\FrmRegistro.cs",
+              "ToolTip": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Forms\\Auth\\FrmRegistro.cs",
+              "RelativeToolTip": "Forms\\Auth\\FrmRegistro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T19:13:59.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Transferencia.cs",
+              "DocumentMoniker": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Models\\Transferencia.cs",
+              "RelativeDocumentMoniker": "Models\\Transferencia.cs",
+              "ToolTip": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Models\\Transferencia.cs",
+              "RelativeToolTip": "Models\\Transferencia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T20:49:20.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Movimiento.cs",
+              "DocumentMoniker": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Models\\Movimiento.cs",
+              "RelativeDocumentMoniker": "Models\\Movimiento.cs",
+              "ToolTip": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Models\\Movimiento.cs",
+              "RelativeToolTip": "Models\\Movimiento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T20:49:11.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CuentaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Models\\CuentaBancaria.cs",
+              "RelativeDocumentMoniker": "Models\\CuentaBancaria.cs",
+              "ToolTip": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Models\\CuentaBancaria.cs",
+              "RelativeToolTip": "Models\\CuentaBancaria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T20:49:01.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FrmMisCuentas.cs",
+              "DocumentMoniker": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Forms\\Cuentas\\FrmMisCuentas.cs",
+              "RelativeDocumentMoniker": "Forms\\Cuentas\\FrmMisCuentas.cs",
+              "ToolTip": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Forms\\Cuentas\\FrmMisCuentas.cs",
+              "RelativeToolTip": "Forms\\Cuentas\\FrmMisCuentas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T19:28:44.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FrmHome1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Forms\\FrmHome\\FrmHome1.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmHome\\FrmHome1.cs",
+              "ToolTip": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Forms\\FrmHome\\FrmHome1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Forms\\FrmHome\\FrmHome1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T19:33:44.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FrmReportesAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Forms\\Admin\\FrmReportesAdmin.cs",
+              "RelativeDocumentMoniker": "Forms\\Admin\\FrmReportesAdmin.cs",
+              "ToolTip": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Forms\\Admin\\FrmReportesAdmin.cs",
+              "RelativeToolTip": "Forms\\Admin\\FrmReportesAdmin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T19:32:44.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FrmHome1.cs",
+              "DocumentMoniker": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Forms\\FrmHome\\FrmHome1.cs",
+              "RelativeDocumentMoniker": "Forms\\FrmHome\\FrmHome1.cs",
+              "ToolTip": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Forms\\FrmHome\\FrmHome1.cs",
+              "RelativeToolTip": "Forms\\FrmHome\\FrmHome1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T19:23:07.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FrmLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Forms\\Auth\\FrmLogin.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\Auth\\FrmLogin.Designer.cs",
+              "ToolTip": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Forms\\Auth\\FrmLogin.Designer.cs",
+              "RelativeToolTip": "Forms\\Auth\\FrmLogin.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T19:21:19.582Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SesionActual.cs",
+              "DocumentMoniker": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Models\\SesionActual.cs",
+              "RelativeDocumentMoniker": "Models\\SesionActual.cs",
+              "ToolTip": "C:\\Users\\diana\\source\\repos\\NexumApp-V1\\NexumApp\\Models\\SesionActual.cs",
+              "RelativeToolTip": "Models\\SesionActual.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T20:49:30.598Z"
             }
           ]
         }

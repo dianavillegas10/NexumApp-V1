@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace NexumApp.Forms.Transferencias
 {
-    internal class FrmNuevaTransferencia
+    partial class FrmNuevaTransferencia
     {
     }
 }

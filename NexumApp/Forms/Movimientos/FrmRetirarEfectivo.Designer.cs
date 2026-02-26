@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace NexumApp.Forms.Movimientos
 {
-    internal class FrmRetirarEfectivo
+    partial class FrmRetirarEfectivo
     {
     }
 }

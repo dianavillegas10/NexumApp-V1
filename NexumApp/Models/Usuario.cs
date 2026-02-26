@@ -1,8 +1,7 @@
-﻿using Nexum.Models;
-using System;
+﻿using NexumApp.Models;
 using System.Collections.Generic;
 
-namespace Nexum.Models
+namespace NexumApp.Models
 {
     public class Usuario
     {
@@ -13,15 +12,13 @@ namespace Nexum.Models
         public string PasswordHash { get; set; }
         public string Telefono { get; set; }
         public string Direccion { get; set; }
-        public DateTime FechaRegistro { get; set; }
-        public DateTime? UltimoAcceso { get; set; }
+        public System.DateTime FechaRegistro { get; set; }
+        public System.DateTime? UltimoAcceso { get; set; }
         public bool EsAdmin { get; set; }
         public bool Activo { get; set; }
 
-        // Propiedad calculada
         public string NombreCompleto => $"{Nombre} {Apellidos}";
 
-        // Relaciones: Un usuario tiene muchas cuentas
         public virtual ICollection<CuentaBancaria> Cuentas { get; set; }
     }
 }

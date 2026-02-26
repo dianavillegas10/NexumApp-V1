@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Nexum.Models
+namespace NexumApp.Models
 {
     public class Transferencia
     {
@@ -11,13 +11,10 @@ namespace Nexum.Models
         public decimal Monto { get; set; }
         public DateTime Fecha { get; set; }
         public string Concepto { get; set; }
-        public string Estado { get; set; } // "Completada", "Pendiente", "Fallida"
+        public string Estado { get; set; }
 
-        // Propiedades calculadas
         public string MontoFormateado => Monto.ToString("C2");
-        public string FechaFormateada => Fecha.ToString("dd/MM/yyyy HH:mm");
 
-        // Relación
         public virtual CuentaBancaria CuentaOrigen { get; set; }
     }
 }
