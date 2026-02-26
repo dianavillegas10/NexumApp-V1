@@ -19,3 +19,7 @@ x86/
 bld/
 [Bb]in/
 [Oo]bj/
+
+# Visual Studio específico
+.vs/
+.vs/NexumApp.slnx/
