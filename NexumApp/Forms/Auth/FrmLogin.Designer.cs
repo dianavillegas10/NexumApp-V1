@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 namespace NexumApp.Forms.Auth
+=======
+﻿namespace NexumApp.Forms.Auth
+>>>>>>> 0e7654f089c459908e1e4da6cea6219e81f2e458
 {
     partial class FrmLogin
     {
@@ -28,20 +32,35 @@ namespace NexumApp.Forms.Auth
             ((System.ComponentModel.ISupportInitialize)(this.picLogo)).BeginInit();
             this.pnlRight.SuspendLayout();
             this.SuspendLayout();
+<<<<<<< HEAD
             // 
             // pnlLeft
             // 
             this.pnlLeft.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(30)))), ((int)(((byte)(58)))), ((int)(((byte)(95)))));
+=======
+            //
+            // pnlLeft (Panel izquierdo - marca Nexum Bank)
+            //
+            this.pnlLeft.BackColor = System.Drawing.Color.FromArgb(30, 58, 95);
+>>>>>>> 0e7654f089c459908e1e4da6cea6219e81f2e458
             this.pnlLeft.Controls.Add(this.picLogo);
             this.pnlLeft.Controls.Add(this.lblSubtitulo);
             this.pnlLeft.Dock = System.Windows.Forms.DockStyle.Left;
             this.pnlLeft.Location = new System.Drawing.Point(0, 0);
             this.pnlLeft.Name = "pnlLeft";
+<<<<<<< HEAD
             this.pnlLeft.Size = new System.Drawing.Size(274, 420);
             this.pnlLeft.TabIndex = 0;
             // 
             // picLogo
             // 
+=======
+            this.pnlLeft.Size = new System.Drawing.Size(280, 420);
+            this.pnlLeft.TabIndex = 0;
+            //
+            // picLogo
+            //
+>>>>>>> 0e7654f089c459908e1e4da6cea6219e81f2e458
             this.picLogo.BackColor = System.Drawing.Color.Transparent;
             this.picLogo.Location = new System.Drawing.Point(40, 100);
             this.picLogo.Name = "picLogo";
@@ -49,6 +68,7 @@ namespace NexumApp.Forms.Auth
             this.picLogo.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.picLogo.TabIndex = 0;
             this.picLogo.TabStop = false;
+<<<<<<< HEAD
             // 
             // lblSubtitulo
             // 
@@ -64,6 +84,23 @@ namespace NexumApp.Forms.Auth
             // pnlRight
             // 
             this.pnlRight.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(248)))), ((int)(((byte)(250)))), ((int)(((byte)(252)))));
+=======
+            //
+            // lblSubtitulo
+            //
+            this.lblSubtitulo.AutoSize = true;
+            this.lblSubtitulo.Font = new System.Drawing.Font("Segoe UI", 10F);
+            this.lblSubtitulo.ForeColor = System.Drawing.Color.FromArgb(180, 200, 220);
+            this.lblSubtitulo.Location = new System.Drawing.Point(40, 350);
+            this.lblSubtitulo.Name = "lblSubtitulo";
+            this.lblSubtitulo.Size = new System.Drawing.Size(200, 38);
+            this.lblSubtitulo.TabIndex = 1;
+            this.lblSubtitulo.Text = "Accede de forma segura a tu\r\nbanca online";
+            //
+            // pnlRight (Panel derecho - formulario de login)
+            //
+            this.pnlRight.BackColor = System.Drawing.Color.FromArgb(248, 250, 252);
+>>>>>>> 0e7654f089c459908e1e4da6cea6219e81f2e458
             this.pnlRight.Controls.Add(this.lblAcceso);
             this.pnlRight.Controls.Add(this.lblEmail);
             this.pnlRight.Controls.Add(this.txtEmail);
@@ -72,6 +109,7 @@ namespace NexumApp.Forms.Auth
             this.pnlRight.Controls.Add(this.btnLogin);
             this.pnlRight.Controls.Add(this.lnkRegistro);
             this.pnlRight.Dock = System.Windows.Forms.DockStyle.Fill;
+<<<<<<< HEAD
             this.pnlRight.Location = new System.Drawing.Point(274, 0);
             this.pnlRight.Name = "pnlRight";
             this.pnlRight.Padding = new System.Windows.Forms.Padding(50, 0, 50, 0);
@@ -106,10 +144,47 @@ namespace NexumApp.Forms.Auth
             this.txtEmail.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.txtEmail.Font = new System.Drawing.Font("Segoe UI", 11F);
             this.txtEmail.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(30)))), ((int)(((byte)(58)))), ((int)(((byte)(95)))));
+=======
+            this.pnlRight.Location = new System.Drawing.Point(280, 0);
+            this.pnlRight.Name = "pnlRight";
+            this.pnlRight.Padding = new System.Windows.Forms.Padding(50, 0, 50, 0);
+            this.pnlRight.Size = new System.Drawing.Size(350, 420);
+            this.pnlRight.TabIndex = 1;
+            //
+            // lblAcceso
+            //
+            this.lblAcceso.AutoSize = true;
+            this.lblAcceso.Font = new System.Drawing.Font("Segoe UI", 18F, System.Drawing.FontStyle.Bold);
+            this.lblAcceso.ForeColor = System.Drawing.Color.FromArgb(30, 58, 95);
+            this.lblAcceso.Location = new System.Drawing.Point(60, 60);
+            this.lblAcceso.Name = "lblAcceso";
+            this.lblAcceso.Size = new System.Drawing.Size(235, 32);
+            this.lblAcceso.TabIndex = 0;
+            this.lblAcceso.Text = "Acceso a tu cuenta";
+            //
+            // lblEmail
+            //
+            this.lblEmail.AutoSize = true;
+            this.lblEmail.Font = new System.Drawing.Font("Segoe UI", 9.5F);
+            this.lblEmail.ForeColor = System.Drawing.Color.FromArgb(70, 85, 105);
+            this.lblEmail.Location = new System.Drawing.Point(60, 120);
+            this.lblEmail.Name = "lblEmail";
+            this.lblEmail.Size = new System.Drawing.Size(40, 17);
+            this.lblEmail.TabIndex = 1;
+            this.lblEmail.Text = "Email";
+            //
+            // txtEmail
+            //
+            this.txtEmail.BackColor = System.Drawing.Color.White;
+            this.txtEmail.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.txtEmail.Font = new System.Drawing.Font("Segoe UI", 11F);
+            this.txtEmail.ForeColor = System.Drawing.Color.FromArgb(30, 58, 95);
+>>>>>>> 0e7654f089c459908e1e4da6cea6219e81f2e458
             this.txtEmail.Location = new System.Drawing.Point(60, 140);
             this.txtEmail.Name = "txtEmail";
             this.txtEmail.Size = new System.Drawing.Size(230, 27);
             this.txtEmail.TabIndex = 2;
+<<<<<<< HEAD
             // 
             // lblPassword
             // 
@@ -128,15 +203,42 @@ namespace NexumApp.Forms.Auth
             this.txtPassword.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.txtPassword.Font = new System.Drawing.Font("Segoe UI", 11F);
             this.txtPassword.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(30)))), ((int)(((byte)(58)))), ((int)(((byte)(95)))));
+=======
+            //
+            // lblPassword
+            //
+            this.lblPassword.AutoSize = true;
+            this.lblPassword.Font = new System.Drawing.Font("Segoe UI", 9.5F);
+            this.lblPassword.ForeColor = System.Drawing.Color.FromArgb(70, 85, 105);
+            this.lblPassword.Location = new System.Drawing.Point(60, 190);
+            this.lblPassword.Name = "lblPassword";
+            this.lblPassword.Size = new System.Drawing.Size(73, 17);
+            this.lblPassword.TabIndex = 3;
+            this.lblPassword.Text = "Contraseña";
+            //
+            // txtPassword
+            //
+            this.txtPassword.BackColor = System.Drawing.Color.White;
+            this.txtPassword.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.txtPassword.Font = new System.Drawing.Font("Segoe UI", 11F);
+            this.txtPassword.ForeColor = System.Drawing.Color.FromArgb(30, 58, 95);
+>>>>>>> 0e7654f089c459908e1e4da6cea6219e81f2e458
             this.txtPassword.Location = new System.Drawing.Point(60, 210);
             this.txtPassword.Name = "txtPassword";
             this.txtPassword.PasswordChar = '●';
             this.txtPassword.Size = new System.Drawing.Size(230, 27);
             this.txtPassword.TabIndex = 4;
+<<<<<<< HEAD
             // 
             // btnLogin
             // 
             this.btnLogin.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(30)))), ((int)(((byte)(58)))), ((int)(((byte)(95)))));
+=======
+            //
+            // btnLogin
+            //
+            this.btnLogin.BackColor = System.Drawing.Color.FromArgb(30, 58, 95);
+>>>>>>> 0e7654f089c459908e1e4da6cea6219e81f2e458
             this.btnLogin.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnLogin.FlatAppearance.BorderSize = 0;
             this.btnLogin.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -149,6 +251,7 @@ namespace NexumApp.Forms.Auth
             this.btnLogin.Text = "Iniciar sesión";
             this.btnLogin.UseVisualStyleBackColor = false;
             this.btnLogin.Click += new System.EventHandler(this.BtnLogin_Click);
+<<<<<<< HEAD
             // 
             // lnkRegistro
             // 
@@ -159,13 +262,31 @@ namespace NexumApp.Forms.Auth
             this.lnkRegistro.Location = new System.Drawing.Point(60, 330);
             this.lnkRegistro.Name = "lnkRegistro";
             this.lnkRegistro.Size = new System.Drawing.Size(210, 17);
+=======
+            //
+            // lnkRegistro
+            //
+            this.lnkRegistro.ActiveLinkColor = System.Drawing.Color.FromArgb(30, 58, 95);
+            this.lnkRegistro.AutoSize = true;
+            this.lnkRegistro.Font = new System.Drawing.Font("Segoe UI", 9.5F);
+            this.lnkRegistro.LinkColor = System.Drawing.Color.FromArgb(70, 85, 105);
+            this.lnkRegistro.Location = new System.Drawing.Point(60, 330);
+            this.lnkRegistro.Name = "lnkRegistro";
+            this.lnkRegistro.Size = new System.Drawing.Size(200, 17);
+>>>>>>> 0e7654f089c459908e1e4da6cea6219e81f2e458
             this.lnkRegistro.TabIndex = 6;
             this.lnkRegistro.TabStop = true;
             this.lnkRegistro.Text = "¿No tienes cuenta? Regístrate aquí";
             this.lnkRegistro.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.LnkRegistro_LinkClicked);
+<<<<<<< HEAD
             // 
             // FrmLogin
             // 
+=======
+            //
+            // FrmLogin
+            //
+>>>>>>> 0e7654f089c459908e1e4da6cea6219e81f2e458
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(630, 420);
@@ -184,7 +305,10 @@ namespace NexumApp.Forms.Auth
             this.pnlRight.ResumeLayout(false);
             this.pnlRight.PerformLayout();
             this.ResumeLayout(false);
+<<<<<<< HEAD
 
+=======
+>>>>>>> 0e7654f089c459908e1e4da6cea6219e81f2e458
         }
 
         private System.Windows.Forms.Panel pnlLeft;

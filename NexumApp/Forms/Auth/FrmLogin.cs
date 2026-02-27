@@ -1,11 +1,18 @@
+<<<<<<< HEAD
 using MySql.Data.MySqlClient;
+=======
+﻿using MySql.Data.MySqlClient;
+>>>>>>> 0e7654f089c459908e1e4da6cea6219e81f2e458
 using NexumApp.Models;
 using NexumApp.Services;
 using System;
 using System.Drawing;
 using System.IO;
 using System.Windows.Forms;
+<<<<<<< HEAD
 using NexumApp.Forms.Principal;
+=======
+>>>>>>> 0e7654f089c459908e1e4da6cea6219e81f2e458
 
 namespace NexumApp.Forms.Auth
 {
@@ -103,7 +110,11 @@ namespace NexumApp.Forms.Auth
                     MessageBox.Show($"Bienvenido, {usuario.NombreCompleto}.", "Login correcto", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
                     this.Hide();
+<<<<<<< HEAD
                     _formPrincipal = new Principal.FrmPrincipal();
+=======
+                    _formPrincipal = new FrmHome.FrmHome1();
+>>>>>>> 0e7654f089c459908e1e4da6cea6219e81f2e458
                     _formPrincipal.FormClosed += (s, args) => this.Close();
                     _formPrincipal.Show();
                 }

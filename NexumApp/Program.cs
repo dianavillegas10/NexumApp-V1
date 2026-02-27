@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 using System;
+=======
+﻿using System;
+>>>>>>> 0e7654f089c459908e1e4da6cea6219e81f2e458
 using System.Windows.Forms;
 using NexumApp.Forms.Auth; // 👈 Añade este using
 

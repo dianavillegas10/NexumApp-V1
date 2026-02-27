@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 using NexumApp.Models;
+=======
+﻿using NexumApp.Models;
+>>>>>>> 0e7654f089c459908e1e4da6cea6219e81f2e458
 using System.Collections.Generic;
 
 namespace NexumApp.Models

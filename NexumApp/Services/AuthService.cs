@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 using MySql.Data.MySqlClient;
+=======
+﻿using MySql.Data.MySqlClient;
+>>>>>>> 0e7654f089c459908e1e4da6cea6219e81f2e458
 using NexumApp.Models;
 using System;
 

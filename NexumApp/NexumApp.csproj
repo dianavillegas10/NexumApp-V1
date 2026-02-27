@@ -141,9 +141,16 @@
     <Compile Include="Forms\Cuentas\FrmMisCuentas.Designer.cs">
       <DependentUpon>FrmMisCuentas.cs</DependentUpon>
     </Compile>
+<<<<<<< HEAD
     <Compile Include="Forms\Movimientos\FrmHistorialMovimientos.cs">
       <SubType>Form</SubType>
     </Compile>
+=======
+    <Compile Include="Forms\FrmHome\FrmHome1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Movimientos\FrmHistorialMovimientos.cs" />
+>>>>>>> 0e7654f089c459908e1e4da6cea6219e81f2e458
     <Compile Include="Forms\Movimientos\FrmHistorialMovimientos.Designer.cs">
       <DependentUpon>FrmHistorialMovimientos.cs</DependentUpon>
     </Compile>
