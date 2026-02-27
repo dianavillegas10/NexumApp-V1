@@ -1,13 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace NexumApp.Forms.Principal
 {
-    internal class FrmDashboard
+    internal partial class FrmDashboard : Form
     {
+        public FrmDashboard()
+        {
+            InitializeComponent();
+        }
     }
 }
-//Resumen del usuario (AGREGAR GRÁFICOS E INFORMES SI SE PUEDE)

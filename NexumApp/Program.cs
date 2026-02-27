@@ -1,8 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using System;
 using System.Windows.Forms;
+using NexumApp.Forms.Auth; // 👈 Añade este using
 
 namespace NexumApp
 {
@@ -16,7 +14,7 @@ namespace NexumApp
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new FrmLogin()); // 👈 Cambiado a FrmLogin
         }
     }
 }

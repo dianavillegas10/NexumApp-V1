@@ -1,14 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace NexumApp.Forms.Admin
 {
-    internal class FrmGestionUsuarios
+    internal partial class FrmGestionUsuarios : Form
     {
+        public FrmGestionUsuarios()
+        {
+            InitializeComponent();
+        }
     }
 }
-
-//VER Y EDITAR USUARIOS

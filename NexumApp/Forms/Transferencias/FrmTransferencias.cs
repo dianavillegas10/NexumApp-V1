@@ -1,13 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace NexumApp.Forms.Transferencias
 {
-    internal class FrmTransferencias
+    internal partial class FrmTransferencias : Form
     {
+        public FrmTransferencias()
+        {
+            InitializeComponent();
+        }
     }
 }
-// Historial de transferencias

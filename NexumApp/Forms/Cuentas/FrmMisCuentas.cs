@@ -1,13 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace NexumApp.Forms.Cuentas
 {
-    internal class FrmMisCuentas
+    internal partial class FrmMisCuentas : Form
     {
+        public FrmMisCuentas()
+        {
+            InitializeComponent();
+        }
     }
 }
-//   Listado de cuentas del usuario

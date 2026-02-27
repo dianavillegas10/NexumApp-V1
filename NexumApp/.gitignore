@@ -1,0 +1,18 @@
+﻿# Visual Studio
+.vs/
+.vs/config/
+.vs/*.suo
+.vs/*.user
+.vs/*.vssscc
+.vs/ProjectEvaluation/
+.vs/FileContentIndex/
+
+# Resultados de compilación
+bin/
+obj/
+
+# Archivos de usuario
+*.suo
+*.user
+*.userosscache
+*.sln.docstates

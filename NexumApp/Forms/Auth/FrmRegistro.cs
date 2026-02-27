@@ -1,13 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace NexumApp.Forms.Auth
 {
-    internal class FrmRegistro
+    internal partial class FrmRegistro : Form
     {
+        public FrmRegistro()
+        {
+            InitializeComponent();
+        }
     }
 }
-// # Registro de nuevos usuarios

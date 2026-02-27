@@ -1,13 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace NexumApp.Forms.Movimientos
 {
-    internal class FrmRetirarEfectivo
+    internal partial class FrmRetirarEfectivo : Form
     {
+        public FrmRetirarEfectivo()
+        {
+            InitializeComponent();
+        }
     }
 }
-//Retirar dinero
