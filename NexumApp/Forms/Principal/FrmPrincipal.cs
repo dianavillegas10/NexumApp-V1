@@ -5,7 +5,10 @@ using NexumApp.Models;
 
 namespace NexumApp.Forms.Principal
 {
-    partial class FrmPrincipal : Form
+    /// <summary>
+    /// Ventana principal después del login. Muestra bienvenida y permite cerrar sesión.
+    /// </summary>
+    internal class FrmPrincipal : Form
     {
         private Label lblBienvenida;
         private Button btnCerrarSesion;
@@ -24,9 +27,8 @@ namespace NexumApp.Forms.Principal
 
             lblBienvenida = new Label
             {
-                // 👈 CORREGIDO: Usamos directamente NombreCompleto de SesionActual
                 Text = SesionActual.Instancia.EstaLogeado
-                    ? $"Bienvenido, {SesionActual.Instancia.NombreCompleto}"
+                    ? $"Bienvenido, {SesionActual.Instancia.Usuario.NombreCompleto}"
                     : "Bienvenido",
                 Font = new Font("Segoe UI", 14F, FontStyle.Bold),
                 AutoSize = true,

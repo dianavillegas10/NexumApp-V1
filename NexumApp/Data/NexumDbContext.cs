@@ -1,6 +1,5 @@
-﻿using MySql.Data.EntityFramework;
+using MySql.Data.EntityFramework;
 using NexumApp.Models;
-using System;
 using System.Data.Entity;
 
 namespace NexumApp.Data
@@ -19,7 +18,6 @@ namespace NexumApp.Data
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
-            // Configurar relaciones
             modelBuilder.Entity<CuentaBancaria>()
                 .HasRequired(c => c.Usuario)
                 .WithMany(u => u.Cuentas)
